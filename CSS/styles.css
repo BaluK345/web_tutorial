@@ -1,0 +1,14 @@
+ h1 {
+            color:aquamarine
+    }
+    #para1 {
+        font-size: 30px;
+        color: orange;
+        background-color: green;
+        border: 5px solid: blue;
+     }
+
+     .commonpara{
+        background-color: orange;
+        color: white;
+     }
